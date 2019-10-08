@@ -1,0 +1,234 @@
+Battery report 
+
+COMPUTER NAME 
+DESKTOP-0COBTV1
+SYSTEM PRODUCT NAME 
+Dell Inc. Inspiron 7460
+BIOS 
+1.10.0 01/11/2019
+OS BUILD 
+17134.1.amd64fre.rs4_release.180410-1804
+PLATFORM ROLE 
+Mobile
+CONNECTED STANDBY 
+Not supported
+REPORT TIME 
+2019-10-08 12:39:24
+Installed batteries 
+Information about each currently installed battery 
+
+
+
+BATTERY 1
+NAME
+DELL CYMGM71
+MANUFACTURER
+Samsung SDI
+SERIAL NUMBER
+54119
+CHEMISTRY
+LION
+DESIGN CAPACITY
+41,998 mWh 
+
+FULL CHARGE CAPACITY
+9,063 mWh 
+CYCLE COUNT
+- 
+Recent usage
+Power states over the last 3 days 
+
+
+
+
+
+START TIME 
+STATE 
+SOURCE 
+CAPACITY REMAINING 
+2019-10-06 03:38:51
+Active 
+AC 
+92 % 
+8,311 mWh 
+03:46:00
+Suspended 
+
+98 % 
+8,858 mWh 
+03:46:57
+Active 
+AC 
+99 % 
+8,960 mWh 
+04:14:24
+Suspended 
+
+99 % 
+8,972 mWh 
+05:43:43
+Active 
+AC 
+100 % 
+9,063 mWh 
+07:24:53
+Suspended 
+
+100 % 
+9,063 mWh 
+08:05:23
+Active 
+AC 
+100 % 
+9,063 mWh 
+10:18:52
+Suspended 
+
+100 % 
+9,063 mWh 
+11:18:36
+Active 
+AC 
+100 % 
+9,063 mWh 
+12:29:17
+Suspended 
+
+100 % 
+9,063 mWh 
+2019-10-07 14:01:35
+Active 
+Battery 
+97 % 
+8,801 mWh 
+2019-10-08 12:29:48
+Suspended 
+
+92 % 
+8,368 mWh 
+12:30:23
+Active 
+Battery 
+91 % 
+8,231 mWh 
+12:34:29
+Suspended 
+
+84 % 
+7,592 mWh 
+12:37:55
+Active 
+Battery 
+81 % 
+7,353 mWh 
+12:39:24
+Report generated 
+Battery 
+80 % 
+7,285 mWh 
+Battery usage
+Battery drains over the last 3 days 
+
+
+
+
+
+
+START TIME 
+STATE 
+DURATION 
+ENERGY DRAINED 
+2019-10-07 14:01:35
+Active 
+22:28:13
+5 % 
+433 mWh 
+
+12:30:23
+Active 
+0:04:05
+7 % 
+639 mWh 
+
+12:37:55
+Active 
+0:01:28
+1 % 
+68 mWh 
+Usage history 
+History of system usage on AC and battery 
+
+
+
+
+
+
+
+
+BATTERY DURATION 
+
+AC DURATION 
+PERIOD 
+ACTIVE 
+CONNECTED STANDBY 
+
+ACTIVE 
+CONNECTED STANDBY 
+2019-10-07
+9:58:23
+-
+
+-
+-
+Battery capacity history 
+Charge capacity history of the system's batteries 
+
+
+
+PERIOD
+FULL CHARGE CAPACITY 
+DESIGN CAPACITY 
+2019-10-07
+9,063 mWh 
+41,998 mWh 
+Battery life estimates 
+Battery life estimates based on observed drains 
+
+
+
+
+
+
+
+
+AT FULL CHARGE 
+
+AT DESIGN CAPACITY 
+PERIOD 
+ACTIVE
+CONNECTED STANDBY
+
+ACTIVE
+CONNECTED STANDBY
+2019-10-07
+304:19:45
+-
+
+1410:15:50
+-
+Current estimate of battery life based on all observed drains since OS install 
+
+
+
+
+
+
+
+Since OS install 
+304:19:45
+-
+
+1410:15:50
+-
+
+
